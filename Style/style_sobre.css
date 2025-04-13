@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .card {
+    margin-bottom: 2rem;
+  }
+  img {
+    border-radius: 1rem;
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+  }
