@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to right, #e3f2fd, #ffffff);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  h1 {
+    font-weight: bold;
+    color: #0d6efd;
+  }
